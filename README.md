@@ -2,7 +2,7 @@
 
 Informatics Engineering student at ISEP (Porto, Portugal). I like building real-time and multiplayer things that people actually use together in the same room.
 
-🎯 Looking for a **curricular internship** starting [mês/ano].
+🎯 Looking for a **curricular internship** starting next semester.
 
 ## 🚀 Featured Projects
 
@@ -28,6 +28,3 @@ Online store for a local supermarket: product catalog, orders and home delivery.
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-pinho-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francisco.coutinho.pinho@gmail.com)
-
-## 📊 Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-pinho&theme=dark&layout=compact)
